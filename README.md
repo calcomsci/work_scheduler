@@ -7,6 +7,6 @@ How to use:
 -You may also delete the hour plan by clicking the saved text and hit backspace on the text
 
 Color map:
-Gray - Past hour(s)
-Red - Current hour
+Gray - Past hour(s) / 
+Red - Current hour /
 Green - Upcoming hour(s)
